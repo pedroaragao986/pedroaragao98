@@ -5,4 +5,4 @@ Meu nome é :pedroaragao98
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 ![](https://media1.tenor.com/m/yPzJmsdmWakAAAAC/dwight-the-office.gif)
-![](https://media1.tenor.com/m/yPzJmsdmWakAAAAC/dwight-the-office.gif)
+![](https://media1.tenor.com/m/quxUCN5yBDsAAAAC/dance-happy.gif)
